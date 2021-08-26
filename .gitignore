@@ -128,5 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-../Exercice_Files/
+Exercise_Files/
 .DS_Store
